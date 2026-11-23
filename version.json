@@ -1,8 +1,1 @@
-{
-  "build": 19,
-  "version": "1.0.19",
-  "apk": "https://github.com/islamjura01-ai/isCAD-update/releases/download/v1.0.19/isCAD_19.apk",
-  "sha256": "bf245128d7013df266736ab45ebe06da518ea9f9476c2466056a1a19518d190d",
-  "size": 56498480,
-  "notes": "Burishni muzlatish tugmasi (❄) va 0° / 90° / asl burchak tugmasi qo'shildi."
-}
+{"build":20,"version":"1.0.20","apk":"https://github.com/islamjura01-ai/isCAD-update/releases/download/v1.0.20/isCAD_20.apk","sha256":"2a4dc85637b721f7f9d69a8196c4e79fb726060f86d4418097df2912ad4bc879","size":56498480,"notes":"Faollashtirish tugmasi tuzatildi: kalit qo'lda yozilganda ham ishlaydi."}
